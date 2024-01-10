@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mi1LXYEa10Eaj9D6a66VOQeVUIEn7O1D9dK5WrjFzzSlmlBCFRE5NktOYGct9nWlDixUcmWuRh/7ZgV2DhUMQQ==",
+  "success": true,
+  "projectFilePath": "/Users/calebsylvia/Downloads/Codestack Academy/Level 2/FiveToSeven/FiveToSeven.csproj",
+  "expectedPackageFiles": [
+    "/Users/calebsylvia/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/calebsylvia/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/calebsylvia/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/calebsylvia/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/calebsylvia/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/calebsylvia/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/calebsylvia/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
